@@ -1,18 +1,18 @@
-
-      body {
-        background-color: plum;
-      }
-      h1 {
-        color: purple;
-        font-family: courier new;
-        font-size: 300%;
-      }
-      h2 {
-        color: blue;
-        font-family: arial;
-        font-size: 160%;
-      }
-      h3 {
-        color: pink;
-        font-family: arial;
-        font-size: 80%
+body {
+      background-color: plum;
+}
+h1 {
+      color: purple;
+      font: courier new;
+      font-size: 300%;
+}
+h2 {
+      color: blue;
+      font: arial;
+      font-size: 160%;
+}
+h3 {
+      color: pink;
+      font: arial;
+      font-size: 80%
+}
